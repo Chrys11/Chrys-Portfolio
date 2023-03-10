@@ -28,5 +28,5 @@ Contributions to the app are welcome. If you have any suggestions or find any is
 The app is licensed under the MIT License. See the LICENSE file in the GitHub repository for more information.
 
 # Contact
-If you hagit ve any questions or concerns, please contact me at cschris109@gmail.com.
+If you have any questions or concerns, please contact me at cschris109@gmail.com.
 
