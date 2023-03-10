@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-## Portfolio App
+# Portfolio App
 
 This is a portfolio app hosted at https://chrys-view.000webhostapp.com/. The app is designed to showcase my skills, projects, and experience to potential employers or clients.
 
@@ -14,9 +13,9 @@ Contact page: A section to provide contact information for potential clients or 
 
 # Technologies Used
 The app is built using the following technologies:
-''' HTML
-''' CSS 
-''' JavaScript
+'' HTML
+'' CSS 
+'' JavaScript
 
 
 # How to Use
@@ -29,7 +28,8 @@ Contributions to the app are welcome. If you have any suggestions or find any is
 The app is licensed under the MIT License. See the LICENSE file in the GitHub repository for more information.
 
 # Contact
-=======
+If you have any questions or concerns, please contact me at cschris109@gmail.com.
+
 Portfolio App
 
 This is a portfolio app hosted at https://chrys-view.000webhostapp.com/. The app is designed to showcase my skills, projects, and experience to potential employers or clients.
